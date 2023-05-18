@@ -12,9 +12,9 @@
 
 <h2> Api de bulunan karakterlerin ilk 20 tanesinin anasayfada listelenmesi </h2>
 
-![Alt Text](characterList.png)
+![Alt Text](CharacterList.png)
 
 
 <h2> Karakterlerin detay sayfası </h2>
 
-![Alt Text](characterDetails.png)
+![Alt Text](CharacterDetails.png)
