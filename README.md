@@ -3,10 +3,9 @@
 <h2> Kullanılan Teknolojiler </h2>
 
 <ol>
-  <li> Retrofit </li>
-  <li> Viewmodel lifecycle </li>
-  <li> LiveData lifecycle </li>
-  <li> Glide </li>
+  <li> Rest API client olarak Retrofit </li>
+  <li> Mimari design olarak MVVM  </li>
+  <li> Async işlemleri için LiveData, ViewModel  </li>
 </ol>
 
 
